@@ -16,7 +16,7 @@ import java.util.TreeSet;
 
 public class LockedMeApp {
 
-	final static String Directory = "D:\\Computer programming\\eclipse\\workspace\\LockedMe";
+	final static String Directory = "C:\\Users\\gianc\\Desktop\\Simplilearn\\Phase1\\Submissions\\LockedMe";
 	static Scanner scan = new Scanner(System.in);
 	
 	public static void main(String[] args)
