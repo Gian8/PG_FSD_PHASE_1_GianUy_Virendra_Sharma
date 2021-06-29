@@ -178,7 +178,7 @@ public class LockedMeApp {
 		System.out.println("Returning to File Operations Menu..." + "\n");
 	}
 	
-	void deleteFile(String nameOfFileToDelete) throws CustomLockedMeException
+	void deleteFile(String nameOfFileToDelete)
 	{	
 		File rootFilePath = new File(dir + "\\" + nameOfFileToDelete);
 		String[] filesInDirectory = dir.list();
